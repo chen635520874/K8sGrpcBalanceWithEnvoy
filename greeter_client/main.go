@@ -29,6 +29,7 @@ import (
 )
 
 const (
+	//address     = "172.13.0.53:50051/"
 	address     = "localhost:50051"
 	defaultName = "world"
 )
